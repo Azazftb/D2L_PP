@@ -32,10 +32,10 @@ Welcome to **D2L++**, an extension designed to elevate your Brightspace LMS expe
 ### Browser Store Installation
 
 The extension is available on major browsers:
-- ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) [Google Chrome](#)
-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) [Mozilla Firefox](#)
-- ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white) [Microsoft Edge](#)
-- ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white) [Opera](#)
+- ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) [Google Chrome](https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0)
+- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) [Mozilla Firefox](https://addons.mozilla.org/en-CA/firefox/addon/d2lpp/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white) [Microsoft Edge](https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0)
+- ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white) *Awaiting moderator acceptance*
 
 Simply visit the respective store and install the extension with one click.
 
@@ -63,7 +63,7 @@ D2L++ was inspired by Better Canvas and Darklight. Seeing the need for dark them
 
 Contributions are welcome! If you have ideas, themes, or features you'd like to add, feel free to contribute:
 
-- **Join our [Discord](#) Community**  
+- **Join our [Discord](https://discord.gg/7dFmcn9HKc) Community**  
   Engage with other users, share your feedback, and stay updated with the latest news.
 
 - **Email the Developer**  
@@ -80,7 +80,7 @@ Rest assured, this extension does not collect any personal data for commercial o
 ## 📝 Links
 
 - [GitHub](#)
-- [Discord](#)
+- [Discord](https://discord.gg/7dFmcn9HKc)
 - [Twitter](#)
 - [Donate](#)
 
