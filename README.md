@@ -79,10 +79,9 @@ Rest assured, this extension does not collect any personal data for commercial o
 
 ## 📝 Links
 
-- [GitHub](#)
+
 - [Discord](https://discord.gg/7dFmcn9HKc)
-- [Twitter](#)
-- [Donate](#)
+
 
 ---
 
