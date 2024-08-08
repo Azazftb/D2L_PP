@@ -2,7 +2,22 @@
 
 Welcome to **D2L++**, an extension designed to elevate your Brightspace LMS experience! Whether you're a student or an educator, D2L++ provides a personalized, feature-rich environment that makes learning more enjoyable and visually appealing.
 
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
+<p align="center">
+  Available on:
+</p>
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0">
+    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome">
+  </a>
+  <a href="https://addons.mozilla.org/en-CA/firefox/addon/d2lpp/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">
+    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox">
+  </a>
+  <a href="https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0">
+    <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge">
+  </a>
+  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" alt="Opera">
+</p>
 
 ## ✨ Features
 
