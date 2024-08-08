@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D2L++ Options</title>
+    <link rel="stylesheet" href="../css/options.css"> <!-- Adjust the path as necessary -->
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="content-container">
+        <img src="../images/d2l_PP.png" alt="D2L++ Logo" class="logo">
+        <div class="card">
+            <nav class="menu">
+                <button id="menu-1" class="active">Themes</button>
+                <button id="menu-2">Features</button>
+                <button id="menu-3">About</button>
+            </nav>
+            <div class="content">
+                <section class="white-card" id="page-1">
+                    <div class="theme-card theme-default" id="theme-default-card">
+                        <div class="theme-card-title">Default</div>
+                        <button class="apply-button" id="apply-default">Apply</button>
+                    </div>
+                    <div class="theme-card theme-cyberpunk" id="theme-cyberpunk-card">
+                        <div class="theme-card-title">Cyberpunk</div>
+                        <button class="apply-button" id="apply-cyberpunk">Apply</button>
+                    </div>
+                    <div class="theme-card theme-hacks" id="theme-hacks-card">
+                        <div class="theme-card-title">Hacks</div>
+                        <button class="apply-button" id="apply-hacks">Apply</button>
+                    </div>
+                    <div class="theme-card theme-midnight" id="theme-midnight-card">
+                        <div class="theme-card-title">Midnight</div>
+                        <button class="apply-button" id="apply-midnight">Apply</button>
+                    </div>
+                    <div class="theme-card theme-mysticblue" id="theme-mysticblue-card">
+                        <div class="theme-card-title">Mystic Blue</div>
+                        <button class="apply-button" id="apply-mysticblue">Apply</button>
+                    </div>
+                    <div class="theme-card theme-royalpurple" id="theme-royalpurple-card">
+                        <div class="theme-card-title">Royal Purple</div>
+                        <button class="apply-button" id="apply-royalpurple">Apply</button>
+                    </div>
+                </section>
+                <section class="white-card" id="page-2" style="display:none;">
+                    <h2>Features</h2>
+                    <div class="feature-row">
+                        <label for="font-size">Font Size:</label>
+                        <input type="range" id="font-size" name="font-size" min="10" max="30" value="16" step="2">
+                    </div>
+                    <div class="feature-row">
+                        <label for="full-width">Full Width:</label>
+                        <input type="checkbox" id="full-width" name="full-width">
+                    </div>
+                    <div class="feature-row">
+                        <label for="toggle-logo">Use D2L++ Logo:</label>
+                        <input type="checkbox" id="toggle-logo" name="toggle-logo">
+                    </div>
+                    <div class="feature-row">
+                        <label for="remove-banner">Remove Banner:</label>
+                        <input type="checkbox" id="remove-banner" name="remove-banner">
+                    </div>
+                    <div class="feature-row">
+                        <label for="brightness">Banner Brightness:</label>
+                        <input type="range" id="brightness" name="brightness" min="50" max="150" value="100" step="10">
+                    </div>
+
+                    <div class="button-group">
+                        <button id="save-features">Save</button>
+                        <button id="reset-default">Reset to Default</button>
+                        <div class="saved" id="saved-message">Saved!</div>
+                    </div>
+                    
+                </section>
+                <section class="white-card" id="page-3" style="display:none;">
+                    <div class="section">
+                        <p><strong>Author:</strong> Azaz</p>
+                        <p><strong>Version:</strong> 1.0</p>
+                        <p><strong>Major Contributors:</strong></p>
+                    </div>
+                    <div class="section">
+                        <p class="header"><strong>Note</strong></p>
+                        <p class="subtext">This extension was inspired by Better Canvas and Darklight. Since both do not provide dark themes and other features to the D2L learning platform, I decided to create this extension. Some parts of the platform may not apply the necessary themes. This could be due to not having access to specific selectors or being unable to find them. I will add these in future updates if possible. If you would like to contribute and improve the extension, there are steps you can follow.</p>
+                    </div>
+                    <div class="section">
+                        <p class="header"><strong>Links:</strong></p>
+                        <div class="link-buttons">
+                            <a href="https://github.com/Azazftb/D2L_PP" class="button-link">GitHub</a>
+                            <a href="https://discord.gg/7dFmcn9HKc" class="button-link">Discord</a>
+                            <a href="#" class="button-link">Twitter</a>
+                            <a href="#" class="button-link">Donate</a>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <p class="header"><strong>Disclaimer</strong></p>
+                        <p class="subtext">This extension is not affiliated with D2L, the Brightspace learning management system, or its developers.</p>
+                    </div>
+                    <div class="section">
+                        <p class="header"><strong>Privacy</strong></p>
+                        <p class="subtext">The developer of this extension does not collect any personal data for either commercial or personal use.</p>
+                    </div>
+                    <div class="section">
+                        <p class="header"><strong>Contribute</strong></p>
+                        <p class="subtext">If you would like to contribute or learn more about the extension, you can join the Discord server or email me at woke.cs.dev@gmail.com.</p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <script src="../js/options.js"></script>
+</body>
+</html>

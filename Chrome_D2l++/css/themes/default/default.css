@@ -1,0 +1,16 @@
+/* Full width layout */
+.d2lpp-fullwidth .d2l-max-width,
+.d2lpp-fullwidth .d2l-page-bg,
+.d2lpp-fullwidth .max-width.d2l-simple-overlay,
+.d2lpp-fullwidth .daylight iframe.d2l-navbar-margin {
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+
+.darklight-fullwidth .d2l-navigation-centerer {
+    max-width: none !important;
+}
+

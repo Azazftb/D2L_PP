@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body {
+    width: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    padding: 10px;
+    margin: 0;
+    box-shadow: 0 0 10px rgba(29, 29, 29, 0.5);
+    background-color: #000000;
+    border-radius: 8px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #000000;
+    border-radius: 6px 6px 0 0;
+}
+.header img {
+    height: 40px;
+    margin-left: 10px;
+}
+.header h3 {
+    margin: 0;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+}
+.container {
+    background-color: #1c1c1c;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.toggle-switch {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.toggle-switch label {
+    font-size: 14px;
+    color: #ffffff;
+    margin-right: 10px;
+    pointer-events: none;
+}
+.toggle-switch input {
+    display: none;
+}
+.slider {
+    position: relative;
+    width: 50px;
+    height: 24px;
+    background-color: #4b4b4b;
+    border-radius: 34px;
+    cursor: pointer;
+    transition: background-color 0.4s;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 2px;
+    bottom: 2px;
+    background-color: #ffffff;
+    transition: transform 0.4s, background-color 0.4s;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+input:checked + .slider {
+    background-color: #008428;
+    box-shadow: 0 0 100px rgb(1, 255, 132);
+}
+input:checked + .slider:before {
+    transform: translateX(26px);
+    background-color: #ffffff;
+}
+.divider {
+    height: 1px;
+    background-color: #333;
+    margin: 20px 0;
+}
+.button-container {
+    display: flex;
+    justify-content: left;
+}
+.button {
+    padding: 10px 20px;
+    background-color: #ff803cdb;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.button:hover {
+    background-color: #ff803c49;
+}
