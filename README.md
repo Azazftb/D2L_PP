@@ -46,13 +46,7 @@ Welcome to **D2L++**, an extension designed to elevate your Brightspace LMS expe
 
 ### Browser Store Installation
 
-The extension is available on major browsers:
-- ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) [Google Chrome](https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0)
-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) [Mozilla Firefox](https://addons.mozilla.org/en-CA/firefox/addon/d2lpp/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white) [Microsoft Edge](https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0)
-- ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white) *Awaiting moderator acceptance*
-
-Simply visit the respective store and install the extension with one click.
+Simply visit the respective store (links above) and install the extension with one click.
 
 ### Manual Installation
 
@@ -90,10 +84,9 @@ This extension is not affiliated with D2L, the Brightspace learning management s
 
 ## 🔐 Privacy
 
-Rest assured, this extension does not collect any personal data for commercial or personal use.
+this extension does not collect any personal data for commercial or personal use.
 
 ## 📝 Links
-
 
 - [Discord](https://discord.gg/7dFmcn9HKc)
 
