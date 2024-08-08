@@ -2,7 +2,7 @@
 
 Welcome to **D2L++**, an extension designed to elevate your Brightspace LMS experience! Whether you're a student or an educator, D2L++ provides a personalized, feature-rich environment that makes learning more enjoyable and visually appealing.
 
-![Chrome](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Google_Chrome_icon_%282011%29.png/64px-Google_Chrome_icon_%282011%29.png) ![Firefox](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Firefox_logo%2C_2019.svg/64px-Firefox_logo%2C_2019.svg.png) ![Edge](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Microsoft_Edge_logo_%282019%29.svg/64px-Microsoft_Edge_logo_%282019%29.svg.png) ![Opera](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/64px-Opera_2015_icon.svg.png)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
 
 ## ✨ Features
 
@@ -32,10 +32,10 @@ Welcome to **D2L++**, an extension designed to elevate your Brightspace LMS expe
 ### Browser Store Installation
 
 The extension is available on major browsers:
-- [Google Chrome](#)
-- [Mozilla Firefox](#)
-- [Microsoft Edge](#)
-- [Opera](#)
+- ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) [Google Chrome](#)
+- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white) [Mozilla Firefox](#)
+- ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white) [Microsoft Edge](#)
+- ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white) [Opera](#)
 
 Simply visit the respective store and install the extension with one click.
 
