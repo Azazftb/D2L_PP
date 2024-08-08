@@ -3,8 +3,8 @@
 Welcome to **D2L++**, an extension designed to elevate your Brightspace LMS experience! Whether you're a student or an educator, D2L++ provides a personalized, feature-rich environment that makes learning more enjoyable and visually appealing.
 
 <p align="center">
-  Available on:
-</p>
+**  Available on:
+**</p>
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/d2l++/ldfpkhphkekoooibkdphjpdcmckbhpha?hl=en&authuser=0">
